@@ -84,4 +84,4 @@ while True:
         sleep(30)
         i += 1
 
-    sleep(30)
+    sleep(2400)
